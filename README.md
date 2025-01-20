@@ -10,8 +10,11 @@ Code Generation Examples: Includes sample tasks and outputs to showcase the mode
 
 ## Technologies Used
 Python
+
 NVIDIA NeMo API
+
 Colab
+
 Deep Learning
 
 ## Contributions
