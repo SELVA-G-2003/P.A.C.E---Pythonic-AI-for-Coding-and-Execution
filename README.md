@@ -13,3 +13,10 @@ Python
 NVIDIA NeMo API
 Colab
 Deep Learning
+
+## Contributions
+Contributions are highly encouraged! If you'd like to enhance this project, please:
+
+Fork the repository.
+Create a new branch for your feature or fix.
+Submit a pull request with your changes.
