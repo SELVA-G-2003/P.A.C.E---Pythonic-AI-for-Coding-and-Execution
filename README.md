@@ -13,6 +13,8 @@ P.A.C.E (Pythonic AI for Coding and Execution) is a project designed to demonstr
 ## Technologies Used
 Python
 
+OpenAI
+
 NVIDIA NeMo API
 
 Colab
