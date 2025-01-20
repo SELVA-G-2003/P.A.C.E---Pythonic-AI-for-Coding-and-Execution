@@ -5,7 +5,9 @@ P.A.C.E (Pythonic AI for Coding and Execution) is a project designed to demonstr
 
 ## Features
 Natural Language to Code Generation: Translates human-readable descriptions into Python code.
+
 AI-Powered Execution: Utilizes NVIDIA's NeMo framework for high-accuracy, language-based coding assistance.
+
 Code Generation Examples: Includes sample tasks and outputs to showcase the model's capabilities.
 
 ## Technologies Used
@@ -21,5 +23,7 @@ Deep Learning
 Contributions are highly encouraged! If you'd like to enhance this project, please:
 
 Fork the repository.
+
 Create a new branch for your feature or fix.
+
 Submit a pull request with your changes.
